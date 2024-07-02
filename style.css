@@ -29,3 +29,11 @@ html{
   font-size: 62.5%;
   overflow-x: hidden;
 }
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+.container { width: 80%; margin: auto; background-color: #f9f9f9; }
+header { background-color: #0275d8; color: white; padding: 20px; text-align: center; }
+.content { padding: 20px; }
+h2 { color: #333; }
+p, ul { color: #666; }
+li { margin-bottom: 10px; }
